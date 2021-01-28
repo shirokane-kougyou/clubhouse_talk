@@ -14,7 +14,7 @@
 - 19:00 ~ 20:00
 
 
-# 関連リンク
+## 関連リンク
 - [白金鉱業fm](https://shirokane-kougyou.fm/)
 - [白金鉱業fmツイッターアカウント](https://twitter.com/shirokane_fm)
 - [OpenBrainPad Projectツイッターアカウント](https://twitter.com/Open_BrainPad)
